@@ -510,6 +510,7 @@
             <systemNameSuffix>false</systemNameSuffix>
             <container>true</container>
             <containerType>horizontal</containerType>
+            <letterCase>capitalize</letterCase>
          </text>
          <!--<text name="md_desc">
             <origin>0 0</origin>
