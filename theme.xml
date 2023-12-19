@@ -475,7 +475,7 @@
             <imageRelativeScale>1</imageRelativeScale>
             <selectorImage>./system/coversize/${systemCoverSize}.svg</selectorImage>
             <selectorColor>${overlayColor}</selectorColor>
-            <backgroundColor>030303</backgroundColor>
+            <backgroundColor>${backgroundColor}</backgroundColor>
             <imageType>cover</imageType>
          </grid>
          <image name="coverback">
