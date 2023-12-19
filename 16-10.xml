@@ -40,4 +40,16 @@
 
       </view>
    </variant>
+   <variant name="grid, meta">
+      <view name="gamelist">
+         <helpsystem name="help">
+            <origin>0.5 1</origin>
+            <pos>0.68 0.985</pos>
+            <fontSize>0.0225</fontSize>
+            <fontPath>${fontRegular}</fontPath>
+            <textColor>${overlayColor}</textColor>
+            <iconColor>${overlayColor}</iconColor>
+         </helpsystem>
+      </view>
+</variant>
 </theme>

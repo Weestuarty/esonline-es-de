@@ -479,17 +479,17 @@
             <imageType>cover</imageType>
          </grid>
          <image name="coverback">
-            <pos>0.0 0.00</pos>
-            <size>0.36 0.626</size>
-            <path>${spacerImage}</path>
-            <color>${backgroundColor}</color>
+            <pos>0.186 0.1075</pos>
+            <origin>0.5 0.5</origin>
+            <maxSize>0.25 0.2</maxSize>
+            <imageType>marquee</imageType>
             <zIndex>11</zIndex>
          </image>
          <video name="cover">
-            <pos>0.186 0.32</pos>
+            <pos>0.186 0.42</pos>
             <origin>0.5 0.5</origin>
-            <maxSize>0.34 0.615</maxSize>
-            <imageType>cover,marquee,titlescreen</imageType>
+            <maxSize>0.3 0.4</maxSize>
+            <imageType>screenshot</imageType>
             <pillarboxes>false</pillarboxes>
             <iterationCount>1</iterationCount>
             <scrollFadeIn>true</scrollFadeIn>

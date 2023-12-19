@@ -1,9 +1,23 @@
 <theme>
+   <aspectRatio name="4:3">
       <view name="gamelist">
          <grid name="grid">
-            <itemSize>0.1168593 0.277</itemSize>			
-	
+            <itemSize>0.15625 0.2777777</itemSize>
          </grid>
       </view>
-   
+   </aspectRatio>
+   <aspectRatio name="16:9">
+      <view name="gamelist">
+         <grid name="grid">
+            <itemSize>0.15625 0.3703703</itemSize>
+         </grid>
+      </view>
+   </aspectRatio>
+   <aspectRatio name="16:10">
+      <view name="gamelist">
+         <grid name="grid">
+            <itemSize>0.15625 0.3333333</itemSize>
+         </grid>
+      </view>
+   </aspectRatio>
 </theme>
