@@ -1,0 +1,29 @@
+<theme>
+   <variant name="meta">
+      <view name="system">
+         <image name="lhsedge3">
+
+            <pos>0.1045 00.585</pos>
+            <size>0.1625 0.004</size>
+         </image>
+         <image name="lhsedge5">
+
+            <pos>0.1045 00.635</pos>
+            <size>0.1625 0.004</size>
+         </image>
+
+         <image name="lhsedge4">
+
+            <pos>0.1045 00.685</pos>
+            <size>0.1625 0.004</size>
+         </image>
+      </view>
+      <view name="system, gamelist">
+
+      </view>
+
+      <view name="gamelist">
+
+      </view>
+   </variant>
+</theme>

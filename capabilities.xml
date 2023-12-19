@@ -1,0 +1,67 @@
+<themeCapabilities>
+   
+   <themeName>ESonline</themeName>
+
+   <aspectRatio>4:3</aspectRatio>
+   <aspectRatio>16:9</aspectRatio>
+   <aspectRatio>16:10</aspectRatio>
+   <aspectRatio>21:9</aspectRatio>
+   
+   <colorScheme name="switch">
+      <label>NSO</label>
+   </colorScheme>
+   <colorScheme name="dark">
+      <label>Dark</label>
+   </colorScheme>
+   <colorScheme name="light">
+      <label>Light</label>
+   </colorScheme>
+   <colorScheme name="xbox">
+      <label>LIVE</label>
+   </colorScheme>
+   <colorScheme name="psn">
+      <label>PSN</label>
+   </colorScheme>
+
+   
+  <variant name="simple">
+   <label>Simple</label>
+   <selectable>true</selectable>
+</variant>
+<variant name="meta">
+   <label>Metadata</label>
+   <selectable>true</selectable>
+</variant>
+<variant name="grid">
+   <label>Grid</label>
+   <selectable>true</selectable>
+</variant>
+
+<transitions name="animated">
+   <label>Animated</label>
+   <selectable>false</selectable>
+   <systemToSystem>instant</systemToSystem>
+   <systemToGamelist>slide</systemToGamelist>
+   <gamelistToGamelist>slide</gamelistToGamelist>
+   <gamelistToSystem>slide</gamelistToSystem>
+   <startupToSystem>instant</startupToSystem>
+   <startupToGamelist>instant</startupToGamelist>
+</transitions>
+   <transitions name="animated2">
+      <label>Static</label>
+      <selectable>false</selectable>
+      <systemToSystem>instant</systemToSystem>
+      <systemToGamelist>slide</systemToGamelist>
+   <gamelistToGamelist>slide</gamelistToGamelist>
+   <gamelistToSystem>slide</gamelistToSystem>
+   <startupToSystem>instant</startupToSystem>
+   <startupToGamelist>instant</startupToGamelist>
+   </transitions>
+   
+   <suppressTransitionProfiles>
+      <entry>builtin-instant</entry>
+      <entry>builtin-slide</entry>
+      <entry>builtin-fade</entry>
+   </suppressTransitionProfiles>
+
+</themeCapabilities>

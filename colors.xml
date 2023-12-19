@@ -1,0 +1,33 @@
+<theme>
+   <colorScheme name="switch">
+      <variables>
+         <overlayColor>FAF9F6</overlayColor>
+         <backgroundColor>E4000F</backgroundColor>
+      </variables>
+   </colorScheme>
+   <colorScheme name="dark">
+      <variables>
+         <overlayColor>FAF9F6</overlayColor>
+         <backgroundColor>373737</backgroundColor>
+      </variables>
+   </colorScheme>
+   <colorScheme name="light">
+      <variables>
+         <overlayColor>FAF9F6</overlayColor>
+         <backgroundColor>8A8A8A</backgroundColor>
+      </variables>
+   </colorScheme>
+   <colorScheme name="psn">
+      <variables>
+         <overlayColor>FAF9F6</overlayColor>
+         <backgroundColor>003087</backgroundColor>
+      </variables>
+   </colorScheme>
+   <colorScheme name="xbox">
+      <variables>
+         <overlayColor>FAF9F6</overlayColor>
+         <backgroundColor>0E7A0D</backgroundColor>
+      </variables>
+   </colorScheme>
+   
+</theme>

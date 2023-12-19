@@ -1,0 +1,55 @@
+<theme>
+   <variant name="meta">
+      <view name="system">
+
+
+         <text name="system-info">
+
+            <pos>0.02 0.475</pos>
+
+         </text>
+         <text name="system-info4">
+
+            <pos>0.02 0.525</pos>
+
+         </text>
+
+         <image name="lhsedge3">
+
+            <pos>0.076 00.46</pos>
+            <size>0.2205 0.004</size>
+         </image>
+         <image name="lhsedge5">
+
+            <pos>0.076 00.51</pos>
+            <size>0.2205 0.004</size>
+
+         </image>
+         <text name="system-info3">
+
+            <pos>0.02 0.575</pos>
+
+         </text>
+         <image name="lhsedge4">
+
+            <pos>0.076 00.56</pos>
+            <size>0.2205 0.004</size>
+
+         </image>
+      </view>
+      <view name="system, gamelist">
+         <helpsystem name="help">
+            <origin>0.5 1</origin>
+            <pos>0.68 0.985</pos>
+            <fontSize>0.019</fontSize>
+            <fontPath>${fontRegular}</fontPath>
+            <textColor>${overlayColor}</textColor>
+            <iconColor>${overlayColor}</iconColor>
+         </helpsystem>
+      </view>
+
+      <view name="gamelist">
+
+      </view>
+   </variant>
+</theme>
