@@ -459,8 +459,8 @@
 
          <grid name="grid">
             <origin>0.5 0.5</origin>
-            <pos>0.678 0.5165</pos>
-            <size>0.625 0.831</size>
+            <pos>0.678 0.516</pos>
+            <size>0.625 0.832</size>
             <itemScale>1.2</itemScale>
             <scaleInwards>true</scaleInwards>
             <itemSpacing>0 0</itemSpacing>
