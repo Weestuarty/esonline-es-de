@@ -503,7 +503,7 @@
             <pos>0.365 0.01</pos>
             <size>0.625 0.08</size>
             <fontSize>0.032</fontSize>
-            <metadata>name</metadata>
+            <metadata>systemFullname</metadata>
             <fontPath>${fontRegular}</fontPath>
             <horizontalAlignment>left</horizontalAlignment>
             <color>${overlayColor}</color>
