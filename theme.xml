@@ -6,9 +6,11 @@
    </variables>
 
    <include>./colors.xml</include>
+   <include>./languages.xml</include>
    <include>./system/metadata/_default.xml</include>
    <include>./system/metadata/${system.theme}.xml</include>
    <include>./system/custom/metadata/${system.theme}.xml</include>
+   <include>./system/coversize/systeminfo/${system.theme}.xml</include>
 
    <aspectRatio name="4:3">
       <include>./4-3.xml</include>
